@@ -1,0 +1,29 @@
+boulian = 2 expressies
+"and" enkel als bijde waar zijn
+"or" al vanaf een of bijde waar
+_______________________________________________________
+ a=5
+ b=0
+ a < 6 or a / b == 1 => true
+ a / b == 1 or a < b => error
+ #python stop als de uitkomst altijd waar is bij "or"
+______________________________________________________
+if leeftijd < 12:
+    print....
+elif leeftijd < 18:
+    print....
+
+#FOUT
+#elif leeftijd < 12 and leeftijd < 18:
+______________________________________________________
+if.......:
+    if.......:
+    else:
+else:
+#is beter dan
+
+if......and......:
+elif........:
+elif........:
+else:
+_____________________________________________________
