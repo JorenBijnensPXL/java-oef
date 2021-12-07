@@ -61,12 +61,12 @@ public class persoon {
         }
         return gezondheid;
     }
-
+/*
     public void groei(int lengtes){
         this(lengtes, 1);
     }
 
     public void groei(int lengtes, int groei){
         gegroeid = lengtes;
-    }
+    }*/
 }
